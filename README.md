@@ -1,6 +1,6 @@
 # A* path planning algorithm
 
-The program calculates the shortest path from the start node to the end node using the A* algorithm. 
+Program that calculates the shortest path from the start node to the end node using the A* algorithm. 
 
 ## Commands and functionality:
 
